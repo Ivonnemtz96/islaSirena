@@ -14,7 +14,7 @@
                             <div class="col-lg-12">
                                 <div class="banner-one-wrapper ptb--110">
                                     <span class="b_one-pre">
-                                        We Serve Food, Harmony, & Laughter Since 1998
+                                        Frescos y deliciosos
                                     </span>
                                     <div class="banner-shape-area">
                                         <span class="shape"></span>
@@ -22,13 +22,13 @@
                                         <span class="shape"></span>
                                     </div>
                                     <h1 class="title-banner">
-                                        Delicious SeaFoods With
+                                        Isla Sirena
                                         <br>
-                                        Wonderful Eating
+                                        Se volverá tu favorito
                                     </h1>
                                     <div class="button-area-banner">
-                                        <a href="about.html" class="rts-btn btn-primary">View More</a>
-                                        <a href="menu-list.html" class="rts-btn btn-seconday">Food Menu</a>
+                                        <a href="about.html" class="rts-btn btn-primary">Ver más</a>
+                                        <a href="menu-list.html" class="rts-btn btn-seconday">Ver menú</a>
                                     </div>
                                 </div>
                             </div>
@@ -45,7 +45,7 @@
                             <div class="col-lg-12">
                                 <div class="banner-one-wrapper ptb--110">
                                     <span class="b_one-pre">
-                                        We Serve Food, Harmony, & Laughter Since 1998
+                                        Navegamos en busca de lo mejor para ti
                                     </span>
                                     <div class="banner-shape-area">
                                         <span class="shape"></span>
@@ -53,13 +53,13 @@
                                         <span class="shape"></span>
                                     </div>
                                     <h1 class="title-banner">
-                                        Fresh SeaFoods From The
+                                        Del Mar a tu mesa,
                                         <br>
-                                        Sea To Your Table
+                                        Mariscos frescos.
                                     </h1>
                                     <div class="button-area-banner">
-                                        <a href="about.html" class="rts-btn btn-primary">View More</a>
-                                        <a href="menu-list.html" class="rts-btn btn-seconday">Food Menu</a>
+                                        <a href="about.html" class="rts-btn btn-primary">Ver galería</a>
+                                        <a href="menu-list.html" class="rts-btn btn-seconday">Ver menú</a>
                                     </div>
                                 </div>
                             </div>
@@ -68,37 +68,7 @@
                 </div>
                 <!-- rts-banner area end -->
             </div>
-            <div class="swiper-slide">
-                <!-- rts-banner area end-->
-                <div class="ptb_sm-20 rts-banner-one bg_image bg_image--3">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="banner-one-wrapper ptb--110">
-                                    <span class="b_one-pre">
-                                        We Serve Food, Harmony, & Laughter Since 1998
-                                    </span>
-                                    <div class="banner-shape-area">
-                                        <span class="shape"></span>
-                                        <span class="shape"></span>
-                                        <span class="shape"></span>
-                                    </div>
-                                    <h1 class="title-banner">
-                                        Delicious Foods With
-                                        <br>
-                                        Wonderful Eating
-                                    </h1>
-                                    <div class="button-area-banner">
-                                        <a href="about.html" class="rts-btn btn-primary">View More</a>
-                                        <a href="menu-list.html" class="rts-btn btn-seconday">Food Menu</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- rts-banner area end -->
-            </div>
+
             <!-- If we need pagination -->
         </div>
         <!-- If we need navigation buttons -->
@@ -117,17 +87,16 @@
                         <div class="left-side">
                             <div class="content">
                                 <h2 class="heading-title"><img src="assets/images/about/time.png"
-                                        alt="about-image">Opening Hours</h2>
+                                        alt="about-image">Horarios</h2>
                                 <ul class="bottom-content">
-                                    <li>Mon - Fri 09:00 - 22:00</li>
-                                    <li>Sat - Fri 11:00 - 00:00</li>
-                                    <li>Sunday Holiday</li>
+                                    <li>Lun - vie 13:00 - 22:00</li>
+                                    <li>Sab - Dom 11:00 - 00:00</li>
                                 </ul>
                             </div>
-                            <div class="image"><img src="assets/images/about/about7.jpg" alt="about-image"></div>
+                            <div class="image"><img src="assets/images/about/about7.jpg?=1" alt="about-image"></div>
                         </div>
                         <div class="right-side">
-                            <div class="image"><img src="assets/images/about/about8.jpg" alt="about-image"></div>
+                            <div class="image"><img src="assets/images/about/about8.jpg?=1" alt="about-image"></div>
                             <div class="content">
                                 <div class="content-icon">
                                     <img src="assets/images/about/knife.png" alt="about-image">
@@ -136,10 +105,10 @@
                                     </div>
                                 </div>
                                 <div class="counter-up-area">
-                                    <h2 class="title-main"><span class="counter">30</span><span class="prefix">+</span>
+                                    <h2 class="title-main"><span class="counter">20</span><span class="prefix">+</span>
                                     </h2>
                                     <p class="disc">
-                                        Years Of Experience
+                                        Platillos
                                     </p>
                                 </div>
                             </div>
@@ -151,26 +120,25 @@
                         <div class="title-img" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
                             <img src="assets/images/about/title-shape.png" alt="about">
                         </div>
-                        <h1 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
-                            Welcome To Our <br> Luxury Restaurant
-                        </h1>
+                        <h2 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
+                            Bienvenidos a <br> Isla Sirena
+                        </h2>
                         <div class="banner-shape-area" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
                             <span class="shape"></span>
                             <span class="shape"></span>
                             <span class="shape"></span>
                         </div>
-                        <p class="desc" data-sal="slide-up" data-sal-duration="800">It’s the story of an everlasting
-                            love affair, Dieter Delicioz and <br> the Atlantic Ocean. Our proximity to the abundant
-                            riches of <br> the sea and Portugal’s excellent produce.</p>
+                        <p class="desc" data-sal="slide-up" data-sal-duration="800">
+                            Nuestra meta es crear una experiencia única y envolvente donde nuestros clientes
+                            puedan disfrutar de una excelente comida del mar en un ambiente que combine elementos de una
+                            isla tropical, la magia de las sirenas y el folclor del humor costeño mexicano.
+                        </p>
                         <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350"
                             data-sal-duration="800">
-                            <a href="menu-list.html" class="rts-btn btn-secondary">More Foods</a>
+                            <a href="menu-list.html" class="rts-btn btn-secondary">Ver menú</a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="vector-shape">
-                <img src="assets/images/about/vector8.webp" alt="">
             </div>
         </div>
     </div>
@@ -184,50 +152,55 @@
             <div class="title-img" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
                 <img src="assets/images/about/title-shape.png" alt="about">
             </div>
-            <h1 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
-                Why People Choose Us?
-            </h1>
-            <p class="desc" data-sal="slide-up" data-sal-duration="800">It’s the story of an everlasting love affair,
-                Dieter Delicioz and the <br> Atlantic Ocean in the big air.</p>
+            <h2 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
+                ¿Por qué elegirnos?
+            </h2>
+            <p class="desc" data-sal="slide-up" data-sal-duration="800">
+                Nos esforzamos por crear momentos memorables al combinar ingredientes de alta calidad, servicio
+                impecable y un ambiente acogedor que refleje el folclor, la calidez y la belleza de San José del Cabo.
+            </p>
         </div>
         <div class="service-area-inner pt--100" data-sal="slide-up" data-sal-delay="1200" data-sal-duration="800">
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-wrapper">
                         <div class="icon">
-                            <img src="assets/images/service/icon/01.png" alt="icon">
+                            <img src="assets/images/service/icon/01.png?=1" alt="icon">
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="menu-list.html">Popular Dishes</a>
+                                <a href="menu-list.html">Frescura</a>
                             </h2>
-                            <p class="service-txt"> They cannot foresee the pain & trouble that are bound to ensue. </p>
+                            <p class="service-txt">La frescura es el corazón de nuestra cocina. Nos comprometemos a
+                                utilizar los mariscos más frescos disponibles.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-wrapper">
                         <div class="icon">
-                            <img src="assets/images/service/icon/02.png" alt="icon">
+                            <img src="assets/images/service/icon/02.png?=1" alt="icon">
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="shop-details.html">Neat & Clean Foods</a>
+                                <a href="shop-details.html">Autenticidad</a>
                             </h2>
-                            <p class="service-txt"> They cannot foresee the pain & trouble that are bound to ensue. </p>
+                            <p class="service-txt"> En Isla Sirena, valoramos y celebramos la autenticidad de los
+                                sabores y tradiciones culinarias de México. </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-wrapper">
                         <div class="icon">
-                            <img src="assets/images/service/icon/03.png" alt="icon">
+                            <img src="assets/images/service/icon/03.png?=1" alt="icon">
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="meet-the-chef.html">Experience Chefs</a>
+                                <a href="meet-the-chef.html">Calidad</a>
                             </h2>
-                            <p class="service-txt"> They cannot foresee the pain & trouble that are bound to ensue. </p>
+                            <p class="service-txt"> Cada plato que sale de nuestra cocina se prepara con meticulosidad y
+                                se presenta de manera impecable. </p>
                         </div>
                     </div>
                 </div>
@@ -238,259 +211,173 @@
 <!-- service area end -->
 
 <!-- MENU area start -->
-<div class="rts-menu-area-5 rts-section-gap">
+<div class="rts-menu-area home-two bg-white rts-section-gap">
     <div class="container">
-        <div class="menu-area-5-inner">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                </div>
-                <div class="col-lg-6">
-                    <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                        <div class="banner-one-wrapper">
-                            <div class="title-img" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <img src="assets/images/about/title-shape.png" alt="about">
-                            </div>
-                            <h1 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
-                                Selected Menu Items
-                            </h1>
-                        </div>
-                        <div class="menu-item">
-                            <div class="item">
-                                <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Cioppino</a></h4>
-                                    <p class="desc">Seafood mixture and tomatoes in wine sauce</p>
-                                </div>
-                                <div class="price-tag"><a href="#">$15.00</a></div>
-                            </div>
-                            <div class="item">
-                                <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Seafood Curry</a></h4>
-                                    <p class="desc">Mixed prawns, Mussels, Calamari and Fish</p>
-                                </div>
-                                <div class="price-tag"><a href="#">$15.00</a></div>
-                            </div>
-                            <div class="item">
-                                <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Crab Cakes</a></h4>
-                                    <p class="desc">Canola oil, Dijon mustard, Lemon Slice</p>
-                                </div>
-                                <div class="price-tag"><a href="#">$15.00</a></div>
-                            </div>
-                            <div class="item">
-                                <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Oysters Rockefeller</a><span
-                                            class="batch">New</span></h4>
-                                    <p class="desc">Beetroot And Datterini, Goat Cheese, Ricotta</p>
-                                </div>
-                                <div class="price-tag"><a href="#">$15.00</a></div>
-                            </div>
-                            <div class="item">
-                                <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Clam Chowder</a></h4>
-                                    <p class="desc">Beetroot And Datterini, Goat Cheese, Ricotta</p>
-                                </div>
-                                <div class="price-tag"><a href="#">$15.00</a></div>
-                            </div>
-                        </div>
-                    </div>
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-6">
+                <div class="banner-one-wrapper">
+                    <h2 class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
+                        Lo mejor del mar, hasta tu mesa
+                    </h2>
+                    <p class="desc" data-sal="slide-up" data-sal-duration="800">
+                        Es genuina en su amor por los sabores y creatividad de la cocina mexicana y la frescura de los
+                        mariscos locales.
+                    </p>
                 </div>
             </div>
+            <div class="col-lg-6 text-center">
+                <div class="portfolio-menu mb-35" data-sal="slide-up" data-sal-delay="450" data-sal-duration="800">
+                    <!-- <button class="gf_btn active" data-filter="*">All</button> -->
+                    <!-- <button class="gf_btn active" data-filter=".cat1">Español</button>
+                    <button class="gf_btn" data-filter=".cat2">Inglés</button> -->
+                    <!-- <button class="gf_btn" data-filter=".cat3">Lunch</button> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="grid row align-items-center" data-sal="slide-up" data-sal-delay="270" data-sal-duration="800">
+            <div class="col-md-3 col-12 grid-item cat1">
+                <div class="portfolio-wrapper2 mb-30">
+                    <a href="shop-details.html" class="image">
+                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3 col-12 grid-item cat1">
+                <div class="portfolio-wrapper2 mb-30">
+                    <a href="shop-details.html" class="image">
+                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3 col-12 grid-item cat2 ">
+                <div class="portfolio-wrapper2 mb-30">
+                    <a href="shop-details.html" class="image">
+                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3 col-12 grid-item cat2">
+                <div class="portfolio-wrapper2 mb-30">
+                    <a href="shop-details.html" class="image">
+                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="button-area-banner" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
+            <a href="menu-list.html" class="rts-btn btn-secondary">Reservar ahora</a>
         </div>
     </div>
 </div>
 <!-- MENU area end -->
 
-<!-- Counter area end -->
-<div class="rts-counter-up-area">
+<!-- gallery area start -->
+<div class="rts-gallery-area bg-white">
     <div class="container">
-        <!-- single fun facts  -->
-        <div class="counter-inner">
-            <div class="rts-single-service-two" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                <h2 class="title-main"><span class="counter">10</span></h2>
-                <p class="disc">
-                    Awards Won
-                </p>
-            </div>
-            <!-- single fun facts end -->
-            <!-- single fun facts  -->
-            <div class="rts-single-service-two" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                <h2 class="title-main"><span class="counter">5</span> <span class="prefix">K</span></h2>
-                <p class="disc">
-                    Dally Orders
-                </p>
-            </div>
-            <!-- single fun facts end -->
-            <!-- single fun facts  -->
-            <div class="rts-single-service-two" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                <h2 class="title-main"><span class="counter">99</span></h2>
-                <p class="disc">
-                    Members
-                </p>
-            </div>
-            <!-- single fun facts end -->
-            <!-- single fun facts  -->
-            <div class="rts-single-service-two" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                <h2 class="title-main"><span class="counter">100</span></h2>
-                <p class="disc">
-                    Menu & Dish
-                </p>
-            </div>
-            <!-- single fun facts end -->
-            <!-- single fun facts  -->
-            <div class="rts-single-service-two" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                <h2 class="title-main"><span class="counter">25</span></h2>
-                <p class="disc">
-                    Specialities
-                </p>
-            </div>
-            <!-- single fun facts end -->
-        </div>
-    </div>
-</div>
-<!-- Counter area end -->
-
-<!-- contact area start -->
-<div class="rts-contact-area-two rts-section-gapTop bg-white">
-    <div class="container">
-        <div class="row">
+        <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
-                <div class="vedio-icone">
-                    <a id="play-video" class="video-play-button" href="#">
-                        <span></span>
-                        <p class="text">
-                            Play Vedio
-                        </p>
-                    </a>
-                    <div id="video-overlay" class="video-overlay">
-                        <a class="video-overlay-close">×</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <form action="#" class="appoinment-form">
-                    <div class="single-input">
-                        <label for="guest">Number of Guest <span class="indicator">*</span></label>
-                        <input type="number" id="guest" placeholder="Person" required>
-                    </div>
-                    <div class="single-input">
-                        <label for="datepicker">Select Date <span class="indicator">*</span></label>
-                        <input placeholder="Date" type="text" name="checkIn" id="datepicker" value="" class="calendar"
-                            required>
-                    </div>
-                    <div class="single-input">
-                        <label for="timepicker">Select Date <span class="indicator">*</span></label>
-                        <input type="text" id="timepicker" placeholder="Time" />
-                    </div>
-                    <div class="single-input">
-                        <button type="submit" class="rts-btn btn-primary">BOOK RESERVATION</button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-    <!-- marquee area start -->
-    <div class="rts-marquee-area">
-        <div class="left"></div>
-        <div class="marquee">
-            <div class="marquee-content">
-                <div class="marquee-tag">
-                    <h3>Book Table <span></span></h3>
-                </div>
-                <div class="marquee-tag">
-                    <h3>Book Table <span></span></h3>
-                </div>
-            </div>
-        </div>
-        <div class="right"></div>
-    </div>
-    <!-- marquee area end -->
-</div>
-<!-- contact area end -->
-
-<!-- blog area start -->
-<div class="rts-blog-area rts-blog-area-2 rts-section-gap">
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-lg-12">
                 <div class="banner-one-wrapper">
-                    <h1 class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
-                        Blog & Insights
-                    </h1>
-                    <p class="desc" data-sal="slide-up" data-sal-delay="700" data-sal-duration="800">It’s the story of
-                        an everlasting love affair, Dieter Delicioz and the <br> Atlantic Ocean in the big air.</p>
+                    <h2 class="title-banner" data-sal="slide-up" style="margin-left: 0;" data-sal-delay="120"
+                        data-sal-duration="800">
+                        Dejáte sorprender por nuestros platillos
+                    </h2>
+                    <p class="desc" data-sal="slide-up" data-sal-duration="800">
+                        Nos esforzamos por ser líderes en la sostenibilidad de los recursos marinos, colaborando con
+                        pescadores locales y promoviendo prácticas responsables en toda la industria de la restauración.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-6 text-center">
+                <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                    <a href="menu-list.html" class="rts-btn btn-secondary">Reservar</a>
                 </div>
             </div>
         </div>
-        <div class="swiper-technical-main-wrapper" data-sal="slide-up" data-sal-delay="1500" data-sal-duration="800">
-            <div class="swiper mySwiper-blog">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="blog-wrapper">
-                            <div class="image-part">
-                                <img src="assets/images/blog/blog-01.jpg" alt="blog">
-                            </div>
-                            <div class="blog-badge">
-                                <span class="date">12</span>
-                                <span class="month">APR</span>
-                            </div>
-                            <div class="content">
-                                <p class="tag"><a href="#">Fast Food</a></p>
-                                <h3 class="title"><a href="blog-details.html">Love and food: It is all about dinenos
-                                        restaurant</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="blog-wrapper">
-                            <div class="image-part">
-                                <img src="assets/images/blog/blog-03.jpg" alt="blog">
-                            </div>
-                            <div class="blog-badge">
-                                <span class="date">12</span>
-                                <span class="month">APR</span>
-                            </div>
-                            <div class="content">
-                                <p class="tag"><a href="#">Dinner</a></p>
-                                <h3 class="title"><a href="blog-details.html">Enjoy an exceptional journey of taste of
-                                        joy.</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="blog-wrapper">
-                            <div class="image-part">
-                                <img src="assets/images/blog/blog-04.jpg" alt="blog">
-                            </div>
-                            <div class="blog-badge">
-                                <span class="date">12</span>
-                                <span class="month">APR</span>
-                            </div>
-                            <div class="content">
-                                <p class="tag"><a href="#">Restaurant</a></p>
-                                <h3 class="title"><a href="blog-details.html">The opportunity to work abroad is a
-                                        prospect, one</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="blog-wrapper">
-                            <div class="image-part">
-                                <img src="assets/images/blog/blog-02.jpg" alt="blog">
-                            </div>
-                            <div class="blog-badge">
-                                <span class="date">12</span>
-                                <span class="month">APR</span>
-                            </div>
-                            <div class="content">
-                                <p class="tag"><a href="#">Rice curry</a></p>
-                                <h3 class="title"><a href="blog-details.html">Food is the foundation of true
-                                        happiness</a></h3>
-                            </div>
-                        </div>
-                    </div>
+    </div>
+    <div class="gallery-area-inner">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="gallery-image" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
+                    <a id="open-popup" href="#"><img src="assets/images/gallery/gallery-img-01.jpg?=1"
+                            alt="gallery"></a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="gallery-image" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
+                    <a id="open-popupa" href="#"><img src="assets/images/gallery/gallery-img-02.jpg?=1"
+                            alt="gallery"></a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="gallery-image" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                    <a id="open-popupb" href="#"><img src="assets/images/gallery/gallery-img-03.jpg?=1"
+                            alt="gallery"></a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="gallery-image" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
+                    <a id="open-popupc" href="#"><img src="assets/images/gallery/gallery-img-04.jpg?=1"
+                            alt="gallery"></a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- blog area end -->
+<!-- gallery area end -->
+
+
+<!-- Contact area start -->
+<div class="rts-contact-area2 rts-section-gapTop">
+    <div class="rts-contact-area-inner">
+        <div class="contact-map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424.5398911986432!2d-109.73394589386389!3d23.001651502618547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51b81fe18653%3A0xcdce626695361601!2sEl%20Merkado!5e0!3m2!1ses-419!2smx!4v1698965691727!5m2!1ses-419!2smx"
+                width="600" height="900" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <form action="#" class="appoinment-form">
+            <div class="banner-one-wrapper">
+                <div class="banner-shape-area" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
+                    <span class="shape"></span>
+                    <span class="shape"></span>
+                    <span class="shape"></span>
+                </div>
+                <h2 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
+                    ¡Reserva ahora!
+                </h2>
+                <p class="desc" data-sal="slide-up" data-sal-duration="800">A restaurant is a business that prepares and
+                    serves food and <br> drinks to customers meals are generally.</p>
+            </div>
+            <div class="single-input">
+                <label for="html">Nombre <span class="indicator">*</span></label>
+                <input type="text" placeholder="Nombre" required />
+            </div>
+            <div class="single-input">
+                <label for="html">Correo <span class="indicator">*</span></label>
+                <input type="mail" placeholder="Correo" required />
+            </div>
+            <div class="single-input">
+                <label for="html">Teléfono <span class="indicator">*</span></label>
+                <input type="text" placeholder="Teléfono" required />
+            </div>
+            <div class="single-input">
+                <label for="guest2">Personas <span class="indicator">*</span></label>
+                <input type="number" id="guest2" placeholder="Personas" required>
+            </div>
+            <div class="single-input">
+                <label for="datepicker">Seleccione día <span class="indicator">*</span></label>
+                <input placeholder="Día" type="text" name="checkIn" id="datepicker" value="" class="calendar" required>
+            </div>
+            <div class="single-input">
+                <label for="timepicker">Seleccione hora<span class="indicator">*</span></label>
+                <input type="text" id="timepicker" placeholder="hora" />
+            </div>
+            <div class="single-input">
+                <button type="submit" class="rts-btn btn-primary">BOOK RESERVATION</button>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Contact area end -->

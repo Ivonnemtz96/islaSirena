@@ -44,7 +44,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&amp;display=swap");
 :root {
-  --color-primary: #DD5903;
+  --color-primary: #08577f;
   --color-secondary: #111111;
   --color-body: #6E777D;
   --color-heading-1: #111111;
@@ -15851,7 +15851,7 @@ body.sal-disabled [data-sal|=flip] {
   line-height: 20px;
 }
 .header-two.header--sticky.sticky {
-  background: #111111;
+  background: #08577f;
 }
 .header-two.header--sticky.sticky .header-top {
   display: none;
@@ -18425,7 +18425,7 @@ edit .quantity-edit button {
   width: 100%;
 }
 .rts-about-area.home-two .about-area-inner .about-one-img .right-side .content {
-  background: #1f1f1f;
+  background: #0d93a485;
   padding: 53px 0 100px 0;
   text-align: center;
 }
@@ -20163,11 +20163,11 @@ p.desc {
   padding: 165px 0 155px 0;
 }
 .rts-banner-main-area-swiper.banner-five .swiper-container .swiper-wrapper .rts-banner-one.bg_image--1 {
-  background: url(../images/bg/bg-image-4.webp);
+  background: url(../images/bg/01.jpg);
   background-size: cover;
 }
 .rts-banner-main-area-swiper.banner-five .swiper-container .swiper-wrapper .rts-banner-one.bg_image--2 {
-  background: url(../images/bg/bg-image-5.webp);
+  background: url(../images/bg/02.jpg);
   background-size: cover;
 }
 .rts-banner-main-area-swiper.banner-five .swiper-container .swiper-wrapper .rts-banner-one.bg_image--3 {
@@ -20192,12 +20192,12 @@ p.desc {
   background-size: cover;
 }
 .rts-banner-main-area-swiper.banner-five .swiper-pagination-bullet:first-child {
-  background: url(../images/bg/bg-image-4.webp);
+  background: url(../images/bg/01.jpg);
   background-position: center;
   background-size: cover;
 }
 .rts-banner-main-area-swiper.banner-five .swiper-pagination-bullet:last-child {
-  background: url(../images/bg/bg-image-6.webp);
+  background: url(../images/bg/02.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -24661,7 +24661,7 @@ p.desc {
   content: "";
   width: 95%;
   height: 90%;
-  background: #fcefe7;
+  background: #0d93a45c;
   position: absolute;
   left: 50%;
   top: -60%;
@@ -27329,7 +27329,7 @@ p.desc {
   -webkit-filter: grayscale(100%);
 }
 .rts-contact-area2 form.appoinment-form {
-  background: #1F1F1F;
+  background: #0d93a475;
   padding: 120px;
   align-items: end;
   position: relative;
@@ -28218,7 +28218,7 @@ p.desc {
 }
 
 .rts-footer-one {
-  background: #111111;
+  background: #08577f;
   position: relative;
 }
 .rts-footer-one .shape-1 {
