@@ -27,8 +27,8 @@
                                         Se volverá tu favorito
                                     </h1>
                                     <div class="button-area-banner">
-                                        <a href="about.html" class="rts-btn btn-primary">Ver más</a>
-                                        <a href="menu-list.html" class="rts-btn btn-seconday">Ver menú</a>
+                                        <a href="#about" class="rts-btn btn-primary">Ver más</a>
+                                        <a href="#menu" class="rts-btn btn-seconday">Ver menú</a>
                                     </div>
                                 </div>
                             </div>
@@ -58,8 +58,8 @@
                                         Mariscos frescos.
                                     </h1>
                                     <div class="button-area-banner">
-                                        <a href="about.html" class="rts-btn btn-primary">Ver galería</a>
-                                        <a href="menu-list.html" class="rts-btn btn-seconday">Ver menú</a>
+                                        <a href="#gallery" class="rts-btn btn-primary">Ver galería</a>
+                                        <a href="#menu" class="rts-btn btn-seconday">Ver menú</a>
                                     </div>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@
 <!-- banner end -->
 
 <!-- about area start -->
-<div class="rts-about-area home-two home-five">
+<div class="rts-about-area home-two home-five" id="about">
     <div class="container">
         <div class="about-area-inner">
             <div class="row align-items-center">
@@ -129,13 +129,13 @@
                             <span class="shape"></span>
                         </div>
                         <p class="desc" data-sal="slide-up" data-sal-duration="800">
-                            Nuestra meta es crear una experiencia única y envolvente donde nuestros clientes
-                            puedan disfrutar de una excelente comida del mar en un ambiente que combine elementos de una
-                            isla tropical, la magia de las sirenas y el folclor del humor costeño mexicano.
+                            Marisquería con espacio creativo, experiencias únicas y envolvedoras. Excelente comida de
+                            mar, fresca y llena de sabor. Ambiente de fiesta, música y diversión a lado de bellas
+                            sirenas y sirenitos.
                         </p>
                         <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350"
                             data-sal-duration="800">
-                            <a href="menu-list.html" class="rts-btn btn-secondary">Ver menú</a>
+                            <a href="#menu" class="rts-btn btn-secondary">Ver menú</a>
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="menu-list.html">Frescura</a>
+                                <a href="#book">Frescura</a>
                             </h2>
                             <p class="service-txt">La frescura es el corazón de nuestra cocina. Nos comprometemos a
                                 utilizar los mariscos más frescos disponibles.</p>
@@ -183,7 +183,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="shop-details.html">Autenticidad</a>
+                                <a href="#book">Autenticidad</a>
                             </h2>
                             <p class="service-txt"> En Isla Sirena, valoramos y celebramos la autenticidad de los
                                 sabores y tradiciones culinarias de México. </p>
@@ -197,7 +197,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">
-                                <a href="meet-the-chef.html">Calidad</a>
+                                <a href="#book">Calidad</a>
                             </h2>
                             <p class="service-txt"> Cada plato que sale de nuestra cocina se prepara con meticulosidad y
                                 se presenta de manera impecable. </p>
@@ -211,7 +211,7 @@
 <!-- service area end -->
 
 <!-- MENU area start -->
-<div class="rts-menu-area home-two bg-white rts-section-gap">
+<div class="rts-menu-area home-two bg-white rts-section-gap" id="menu">
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
@@ -239,42 +239,34 @@
         <div class="grid row align-items-center" data-sal="slide-up" data-sal-delay="270" data-sal-duration="800">
             <div class="col-md-3 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <a href="shop-details.html" class="image">
-                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
-                    </a>
+                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <a href="shop-details.html" class="image">
-                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
-                    </a>
+                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat2 ">
                 <div class="portfolio-wrapper2 mb-30">
-                    <a href="shop-details.html" class="image">
-                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
-                    </a>
+                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat2">
                 <div class="portfolio-wrapper2 mb-30">
-                    <a href="shop-details.html" class="image">
-                        <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
-                    </a>
+                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
                 </div>
             </div>
         </div>
         <div class="button-area-banner" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
-            <a href="menu-list.html" class="rts-btn btn-secondary">Reservar ahora</a>
+            <a href="#book" class="rts-btn btn-secondary">Reservar ahora</a>
         </div>
     </div>
 </div>
 <!-- MENU area end -->
 
 <!-- gallery area start -->
-<div class="rts-gallery-area bg-white">
+<div class="rts-gallery-area bg-white" id="gallery">
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-6">
@@ -291,7 +283,7 @@
             </div>
             <div class="col-lg-6 text-center">
                 <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                    <a href="menu-list.html" class="rts-btn btn-secondary">Reservar</a>
+                    <a href="#book" class="rts-btn btn-secondary">Reservar</a>
                 </div>
             </div>
         </div>
@@ -329,7 +321,7 @@
 
 
 <!-- Contact area start -->
-<div class="rts-contact-area2 rts-section-gapTop">
+<div class="rts-contact-area2 rts-section-gapTop" id="book">
     <div class="rts-contact-area-inner">
         <div class="contact-map">
             <iframe
@@ -347,8 +339,10 @@
                 <h2 class="title-banner" data-sal="slide-up" data-sal-delay="170" data-sal-duration="800">
                     ¡Reserva ahora!
                 </h2>
-                <p class="desc" data-sal="slide-up" data-sal-duration="800">A restaurant is a business that prepares and
-                    serves food and <br> drinks to customers meals are generally.</p>
+                <p class="desc" data-sal="slide-up" data-sal-duration="800">
+                    Disfruta de una experiencia única de una excelente comida del mar con un ambiente que combine
+                    elementos de una isla tropical, la magia de las sirenas y el folclor del humor costeño mexicano.
+                </p>
             </div>
             <div class="single-input">
                 <label for="html">Nombre <span class="indicator">*</span></label>
@@ -375,7 +369,7 @@
                 <input type="text" id="timepicker" placeholder="hora" />
             </div>
             <div class="single-input">
-                <button type="submit" class="rts-btn btn-primary">BOOK RESERVATION</button>
+                <button type="submit" class="rts-btn btn-primary">Reservar</button>
             </div>
         </form>
     </div>

@@ -8,8 +8,8 @@
                 <div class="col-lg-12">
                     <div class="copyright-footer-one" style="margin-top: 0;">
                         <p class="disc">
-                            Copyright @2023 Dinenos by <a
-                                href="https://themeforest.net/user/reacthemes/portfolio">ReacThemes</a>
+                        @2023 Isla Sirena. Diseñado por <a
+                                href="https://www.bananagroup.mx/"> Banana Group Marketing</a>
                         </p>
                     </div>
                 </div>

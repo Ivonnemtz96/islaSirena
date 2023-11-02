@@ -3,8 +3,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.svg">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.jpg">
     <title>Isla Sirena</title>
+    <meta name="description"
+        content="Marisquería con espacio creativo en Los Cabos creando experiencias únicas de comida de mar, fresca y llena de sabor. Ambiente de fiesta, música y diversión.">
 
     <!-- fontawesome css -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">

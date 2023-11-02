@@ -14,16 +14,13 @@
                                         <a class="nav-link" href="#">Inicio</a>
                                     </li>
                                     <li class="">
-                                        <a class="nav-link" href="#">Nosotros</a>
+                                        <a class="nav-link" href="#about">Nosotros</a>
                                     </li>
                                     <li class="">
-                                        <a class="nav-link" href="#">Menú</a>
+                                        <a class="nav-link" href="#menu">Menú</a>
                                     </li>
                                     <li class="">
-                                        <a class="nav-link" href="#">Galería</a>
-                                    </li>
-                                    <li class="">
-                                        <a class="nav-link" href="#">Contacto</a>
+                                        <a class="nav-link" href="#gallery">Galería</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -38,7 +35,7 @@
                     <!-- header right start -->
                     <div class="rts-header-right">
                         <div class="button-area-banner">
-                            <a href="reservation.html" class="rts-btn btn-secondary">Reservar</a>
+                            <a href="#book" class="rts-btn btn-secondary">Reservar</a>
                         </div>
                         <div class="menu-area d-block d-md-none" id="menu-btn">
                             <a href="#" class="nav-menu-link menu-button">
@@ -66,19 +63,19 @@
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu" id="mobile-menu-active">
                     <li class="">
-                        <a class="nav-link" href="#">Inicio</a>
+                        <a class="nav-link" href="/">Inicio</a>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="#">Nosotros</a>
+                        <a class="nav-link" href="/#about">Nosotros</a>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="#">Menú</a>
+                        <a class="nav-link" href="/#menu">Menú</a>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="#">Galería</a>
+                        <a class="nav-link" href="/#gallery">Galería</a>
                     </li>
                     <li class="">
-                        <a class="nav-link" href="#">Contacto</a>
+                        <a class="nav-link" href="/#book">Reservar</a>
                     </li>
                 </ul>
             </nav>
@@ -86,12 +83,12 @@
             <div class="social-wrapper-one">
                 <ul>
                     <li>
-                        <a href="#">
+                        <a href="https://www.facebook.com/people/Isla-Sirena/61552241666073/" target="_blank">
                             <i class="fa-brands fa-facebook-f"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="https://www.instagram.com/islasirena_/" target="_blank">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
                     </li>
