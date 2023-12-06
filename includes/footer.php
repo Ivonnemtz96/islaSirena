@@ -9,7 +9,7 @@
                     <div class="copyright-footer-one" style="margin-top: 0;">
                         <p class="disc">
                         @2023 Isla Sirena. Diseñado por <a
-                                href="https://www.bananagroup.mx/"> Banana Group Marketing</a>
+                                href="https://www.bananagroup.mx/" style="color: #fff;"> Banana Group Marketing</a>
                         </p>
                     </div>
                 </div>

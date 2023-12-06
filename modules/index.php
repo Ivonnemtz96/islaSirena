@@ -93,10 +93,10 @@
                                     <li>Sab - Dom 11:00 - 00:00</li>
                                 </ul>
                             </div>
-                            <div class="image"><img src="assets/images/about/about7.jpg?=1" alt="about-image"></div>
+                            <div class="image"><img src="assets/images/about/01.jpg?=1" alt="about-image"></div>
                         </div>
                         <div class="right-side">
-                            <div class="image"><img src="assets/images/about/about8.jpg?=1" alt="about-image"></div>
+                            <div class="image"><img src="assets/images/about/02.jpg?=1" alt="about-image"></div>
                             <div class="content">
                                 <div class="content-icon">
                                     <img src="assets/images/about/knife.png" alt="about-image">
@@ -220,7 +220,7 @@
                         Lo mejor del mar, hasta tu mesa
                     </h2>
                     <p class="desc" data-sal="slide-up" data-sal-duration="800">
-                        Es genuina en su amor por los sabores y creatividad de la cocina mexicana y la frescura de los
+                        Conoce nuestro menú y nuestro amor por los sabores y creatividad de la cocina mexicana y la frescura de los
                         mariscos locales.
                     </p>
                 </div>
@@ -239,22 +239,22 @@
         <div class="grid row align-items-center" data-sal="slide-up" data-sal-delay="270" data-sal-duration="800">
             <div class="col-md-3 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    <img class="img-fluid" src="assets/images/01.jpg" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    <img class="img-fluid" src="assets/images/02.jpg" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat2 ">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    <img class="img-fluid" src="assets/images/03.jpg" alt="Menu">
                 </div>
             </div>
             <div class="col-md-3 col-12 grid-item cat2">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="https://dummyimage.com/600x900/a1a1a1/fff" alt="Menu">
+                    <img class="img-fluid" src="assets/images/04.jpg" alt="Menu">
                 </div>
             </div>
         </div>
@@ -292,25 +292,25 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                    <a id="open-popup" href="#"><img src="assets/images/gallery/gallery-img-01.jpg?=1"
+                    <a id="open-popup" href="#"><img src="assets/images/gallery/01.jpg?=1"
                             alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
-                    <a id="open-popupa" href="#"><img src="assets/images/gallery/gallery-img-02.jpg?=1"
+                    <a id="open-popupa" href="#"><img src="assets/images/gallery/02.jpg?=1"
                             alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a id="open-popupb" href="#"><img src="assets/images/gallery/gallery-img-03.jpg?=1"
+                    <a id="open-popupb" href="#"><img src="assets/images/gallery/03.jpg?=1"
                             alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
-                    <a id="open-popupc" href="#"><img src="assets/images/gallery/gallery-img-04.jpg?=1"
+                    <a id="open-popupc" href="#"><img src="assets/images/gallery/04.jpg?=1"
                             alt="gallery"></a>
                 </div>
             </div>
