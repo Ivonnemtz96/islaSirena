@@ -89,8 +89,7 @@
                                 <h2 class="heading-title"><img src="assets/images/about/time.png"
                                         alt="about-image">Horarios</h2>
                                 <ul class="bottom-content">
-                                    <li>Lun - vie 13:00 - 22:00</li>
-                                    <li>Sab - Dom 11:00 - 00:00</li>
+                                    <li>Lun - Dom 01:00pm - 09:00pm</li>
                                 </ul>
                             </div>
                             <div class="image"><img src="assets/images/about/01.jpg?=1" alt="about-image"></div>
@@ -129,9 +128,9 @@
                             <span class="shape"></span>
                         </div>
                         <p class="desc" data-sal="slide-up" data-sal-duration="800">
-                            Marisquería con espacio creativo, experiencias únicas y envolvedoras. Excelente comida de
-                            mar, fresca y llena de sabor. Ambiente de fiesta, música y diversión a lado de bellas
-                            sirenas y sirenitos.
+                            Marisquería estilo “Acapulco”, disfruta de un espacio auténtico, real e irreverente. Se
+                            parte de este concepto que combina, frescura, calidad y mucha sazón. Ambiente de fiesta,
+                            música y diversión, acompañado de bellas sirenas…. Y sirenitos!
                         </p>
                         <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350"
                             data-sal-duration="800">
@@ -156,8 +155,8 @@
                 ¿Por qué elegirnos?
             </h2>
             <p class="desc" data-sal="slide-up" data-sal-duration="800">
-                Nos esforzamos por crear momentos memorables al combinar ingredientes de alta calidad, servicio
-                impecable y un ambiente acogedor que refleje el folclor, la calidez y la belleza de San José del Cabo.
+                Nuestro objetivo es crear un servicio informal, lleno de camadería, donde los amigos se reúnen a pasarla
+                bien, porque en Los Cabos con mariscos y caguamas la vida es más sabrosa.
             </p>
         </div>
         <div class="service-area-inner pt--100" data-sal="slide-up" data-sal-delay="1200" data-sal-duration="800">
@@ -185,8 +184,10 @@
                             <h2 class="title">
                                 <a href="#book">Autenticidad</a>
                             </h2>
-                            <p class="service-txt"> En Isla Sirena, valoramos y celebramos la autenticidad de los
-                                sabores y tradiciones culinarias de México. </p>
+                            <p class="service-txt">
+                                En Isla Sirena valoramos la autenticidad de los productos locales, orgánicos y
+                                sustentables de Los Cabos, celebrando los sabores del bello puerto de Acapulco.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -220,7 +221,8 @@
                         Lo mejor del mar, hasta tu mesa
                     </h2>
                     <p class="desc" data-sal="slide-up" data-sal-duration="800">
-                        Conoce nuestro menú y nuestro amor por los sabores y creatividad de la cocina mexicana y la frescura de los
+                        Conoce nuestro menú y nuestro amor por los sabores y creatividad de la cocina mexicana y la
+                        frescura de los
                         mariscos locales.
                     </p>
                 </div>
@@ -292,26 +294,22 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                    <a id="open-popup" href="#"><img src="assets/images/gallery/01.jpg?=1"
-                            alt="gallery"></a>
+                    <a id="open-popup" href="#"><img src="assets/images/gallery/01.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
-                    <a id="open-popupa" href="#"><img src="assets/images/gallery/02.jpg?=1"
-                            alt="gallery"></a>
+                    <a id="open-popupa" href="#"><img src="assets/images/gallery/02.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a id="open-popupb" href="#"><img src="assets/images/gallery/03.jpg?=1"
-                            alt="gallery"></a>
+                    <a id="open-popupb" href="#"><img src="assets/images/gallery/03.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
-                    <a id="open-popupc" href="#"><img src="assets/images/gallery/04.jpg?=1"
-                            alt="gallery"></a>
+                    <a id="open-popupc" href="#"><img src="assets/images/gallery/04.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
         </div>
