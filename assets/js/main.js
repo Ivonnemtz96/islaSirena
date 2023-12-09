@@ -742,19 +742,19 @@
           $('#open-popup').magnificPopup({
             items: [
               {
-                src: 'assets/images/gallery/gallery-img-01.jpg?=1',
+                src: 'assets/images/gallery/05.jpg?=1',
                 title: 'Gallery 01'
               },
               {
-                src: 'assets/images/gallery/gallery-img-02.jpg?=1',
+                src: 'assets/images/gallery/06.jpg?=1',
                 title: 'Gallery 02'
               },
               {
-                src: 'assets/images/gallery/gallery-img-03.jpg?=1',
+                src: 'assets/images/gallery/07.jpg?=1',
                 title: 'Gallery 03'
               },
               {
-                src: 'assets/images/gallery/gallery-img-04.jpg?=1',
+                src: 'assets/images/gallery/08.jpg?=1',
                 title: 'Gallery 04'
               },
             ],

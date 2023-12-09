@@ -238,25 +238,16 @@
         </div>
     </div>
     <div class="container-fluid">
-        <div class="grid row align-items-center" data-sal="slide-up" data-sal-delay="270" data-sal-duration="800">
-            <div class="col-md-3 col-12 grid-item cat1">
+        <div class="grid row text-center align-items-center " data-sal="slide-up" data-sal-delay="270"
+            data-sal-duration="800">
+            <div class="col-md-6 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="assets/images/01.jpg" alt="Menu">
+                    <img style="width: 35rem;" class="img-fluid" src="assets/images/01.jpg" alt="Menu">
                 </div>
             </div>
-            <div class="col-md-3 col-12 grid-item cat1">
+            <div class="col-md-6 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="assets/images/02.jpg" alt="Menu">
-                </div>
-            </div>
-            <div class="col-md-3 col-12 grid-item cat2 ">
-                <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="assets/images/03.jpg" alt="Menu">
-                </div>
-            </div>
-            <div class="col-md-3 col-12 grid-item cat2">
-                <div class="portfolio-wrapper2 mb-30">
-                    <img class="img-fluid" src="assets/images/04.jpg" alt="Menu">
+                    <img style="width: 35rem;" class="img-fluid" src="assets/images/02.jpg" alt="Menu">
                 </div>
             </div>
         </div>
@@ -294,28 +285,108 @@
         <div class="row">
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                    <a id="open-popup" href="#"><img src="assets/images/gallery/01.jpg?=1" alt="gallery"></a>
+                    <a id="open-popup" href="#"><img src="assets/images/gallery/05.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
-                    <a id="open-popupa" href="#"><img src="assets/images/gallery/02.jpg?=1" alt="gallery"></a>
+                    <a id="open-popupa" href="#"><img src="assets/images/gallery/06.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a id="open-popupb" href="#"><img src="assets/images/gallery/03.jpg?=1" alt="gallery"></a>
+                    <a id="open-popupb" href="#"><img src="assets/images/gallery/07.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6">
                 <div class="gallery-image" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
-                    <a id="open-popupc" href="#"><img src="assets/images/gallery/04.jpg?=1" alt="gallery"></a>
+                    <a id="open-popupc" href="#"><img src="assets/images/gallery/08.jpg?=1" alt="gallery"></a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- gallery area end -->
+
+<!-- blog area start -->
+<div class="rts-blog-area rts-section-gap" style="background-color: #f7f7f7 !important;">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-lg-12">
+                <div class="banner-one-wrapper">
+                    <div class="title-img" data-sal="zoom-in" data-sal-delay="200" data-sal-duration="800">
+                        <img src="assets/images/about/title-shape.png" alt="about">
+                    </div>
+                    <h2 class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
+                        ¡Conoce nuestras promociones!
+                    </h2>
+                    <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">It’s the story of
+                        an everlasting love affair, Dieter Delicioz and the <br> Atlantic Ocean in the big air.</p>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-technical-main-wrapper" data-sal="slide-up" data-sal-delay="1200" data-sal-duration="800">
+            <div class="swiper mySwiper-blog">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/blog-01.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> Lunes</span>
+                            <div class="content">
+                                <h6 style="color: #fff;" class="tag">Tiritas de Pescado GRATIS</h6>
+                                <h3 class="title"><a href="blog-details.html">
+                                    (En consumo de una Caguama)
+                                </a></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/blog-02.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> March 2, 2023</span>
+                            <div class="content">
+                                <p class="tag"><a href="#">Rice curry</a></p>
+                                <h3 class="title"><a href="blog-details.html">Food is the foundation of true
+                                        happiness</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/blog-03.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> March 2, 2023</span>
+                            <div class="content">
+                                <p class="tag"><a href="#">Dinner</a></p>
+                                <h3 class="title"><a href="blog-details.html">Enjoy an exceptional journey of taste of
+                                        joy.</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/blog-04.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> March 2, 2023</span>
+                            <div class="content">
+                                <p class="tag"><a href="#">Restaurant</a></p>
+                                <h3 class="title"><a href="blog-details.html">The opportunity to work abroad is a
+                                        prospect, one</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- blog area end -->
 
 
 <!-- Contact area start -->
