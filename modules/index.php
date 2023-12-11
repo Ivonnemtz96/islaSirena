@@ -317,7 +317,7 @@
                     <div class="title-img" data-sal="zoom-in" data-sal-delay="200" data-sal-duration="800">
                         <img src="assets/images/about/title-shape.png" alt="about">
                     </div>
-                    <h2 class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
+                    <h2 style="color: #111;" class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
                         ¡Conoce nuestras promociones!
                     </h2>
                     <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">It’s the story of
@@ -331,53 +331,87 @@
                     <div class="swiper-slide">
                         <div class="blog-wrapper">
                             <div class="image-part">
-                                <img src="assets/images/blog/blog-01.jpg" alt="blog">
+                                <img src="assets/images/blog/02.jpg" alt="blog">
                             </div>
                             <span class="blog-badge"> Lunes</span>
                             <div class="content">
-                                <h6 style="color: #fff;" class="tag">Tiritas de Pescado GRATIS</h6>
-                                <h3 class="title"><a href="blog-details.html">
-                                    (En consumo de una Caguama)
-                                </a></h3>
+                                <h4 style="color: #fff;" class="tag">Tiritas de Pescado GRATIS</h4>
+                                <h6 style="color: #fff;" class="title">(En consumo de una Caguama)</h6>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="blog-wrapper">
                             <div class="image-part">
-                                <img src="assets/images/blog/blog-02.jpg" alt="blog">
+                                <img src="assets/images/blog/04.jpg" alt="blog">
                             </div>
-                            <span class="blog-badge"> March 2, 2023</span>
+                            <span class="blog-badge">Martes</span>
                             <div class="content">
-                                <p class="tag"><a href="#">Rice curry</a></p>
-                                <h3 class="title"><a href="blog-details.html">Food is the foundation of true
-                                        happiness</a></h3>
+                                <h4 style="color: #fff;" class="tag">Paleta de Postre GRATIS</h4>
+                                <h6 style="color: #fff;" class="title">(en consumo de alimentos)</h6>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="blog-wrapper">
                             <div class="image-part">
-                                <img src="assets/images/blog/blog-03.jpg" alt="blog">
+                                <img src="assets/images/blog/06.jpg" alt="blog">
                             </div>
-                            <span class="blog-badge"> March 2, 2023</span>
+                            <span class="blog-badge"> Miércoles</span>
                             <div class="content">
-                                <p class="tag"><a href="#">Dinner</a></p>
-                                <h3 class="title"><a href="blog-details.html">Enjoy an exceptional journey of taste of
-                                        joy.</a></h3>
+                                <h4 style="color: #fff;" class="tag">Noche de Sirenitos</h4>
+                                <h6 style="color: #fff;" class="title">(LGTB margaritas gratis de 6pm a 8pm)</h6>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="blog-wrapper">
                             <div class="image-part">
-                                <img src="assets/images/blog/blog-04.jpg" alt="blog">
+                                <img src="assets/images/blog/05.jpg?=1" alt="blog">
                             </div>
-                            <span class="blog-badge"> March 2, 2023</span>
+                            <span class="blog-badge"> Jueves</span>
                             <div class="content">
-                                <p class="tag"><a href="#">Restaurant</a></p>
-                                <h3 class="title"><a href="blog-details.html">The opportunity to work abroad is a
-                                        prospect, one</a></h3>
+                                <h4 style="color: #fff;" class="tag">Descorche GRATIS</h4>
+                                <h6 style="color: #fff;" class="title">(Trae tu pomo y disfruta de nuestros alimentos)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/03.jpg?=1" alt="blog">
+                            </div>
+                            <span class="blog-badge"> Viernes</span>
+                            <div class="content">
+                                <h4 style="color: #fff;" class="tag">Noche de Sirenas</h4>
+                                <h6 style="color: #fff;" class="title">(Las niñas bien toman gratis de 6pm a 8pm)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/07.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> Sábado</span>
+                            <div class="content">
+                                <h4 style="color: #fff;" class="tag">Pomos al 2x1</h4>
+                                <h6 style="color: #fff;" class="title">(Bacardi, Etiqueta Roja y Tequila Don Ramón)</h6>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="blog-wrapper">
+                            <div class="image-part">
+                                <img src="assets/images/blog/01.jpg" alt="blog">
+                            </div>
+                            <span class="blog-badge"> Domingo</span>
+                            <div class="content">
+                                <h4 style="color: #fff;" class="tag">Clamatos GRATIS</h4>
+                                <h6 style="color: #fff;" class="title">(en consumo de Ostiones, Almejas, Callo y Pata de Mula)</h6>
                             </div>
                         </div>
                     </div>

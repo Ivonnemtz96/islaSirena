@@ -313,9 +313,9 @@
                 var swiper = new Swiper(".mySwiper-blog", {
                   slidesPerView: 3,
                   spaceBetween: 30,                  
-                  loop: false,
-                  autoplay: false,
-                  pagination: false,
+                  loop: true,
+                  autoplay: true,
+                  pagination: true,
                   navigation: {
                     nextEl: ".swiper-button-next",
                     prevEl: ".swiper-button-prev",
