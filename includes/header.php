@@ -20,6 +20,9 @@
                                         <a class="nav-link" href="#menu">Menú</a>
                                     </li>
                                     <li class="">
+                                        <a class="nav-link" href="#promos">Promociones</a>
+                                    </li>
+                                    <li class="">
                                         <a class="nav-link" href="#gallery">Galería</a>
                                     </li>
                                 </ul>

@@ -309,7 +309,7 @@
 <!-- gallery area end -->
 
 <!-- blog area start -->
-<div class="rts-blog-area rts-section-gap" style="background-color: #f7f7f7 !important;">
+<div class="rts-blog-area rts-section-gap" style="background-color: #f7f7f7 !important;" id="promos">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-12">
@@ -320,8 +320,7 @@
                     <h2 style="color: #111;" class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
                         ¡Conoce nuestras promociones!
                     </h2>
-                    <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">It’s the story of
-                        an everlasting love affair, Dieter Delicioz and the <br> Atlantic Ocean in the big air.</p>
+                    <h5 data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">TODOS LOS DÍAS: 3x2 en todos los destilados (Incluye bebidas PREMIUM)</h5>
                 </div>
             </div>
         </div>
