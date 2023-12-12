@@ -22,4 +22,6 @@
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <!-- main css -->
     <link rel="stylesheet" href="assets/css/style.css"> 
+     <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

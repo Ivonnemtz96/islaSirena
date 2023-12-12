@@ -5,7 +5,11 @@ $title = 'Inicio';
 $inicio = 'current-menu-item';
 include('includes/head.php');
 ?>
-
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
 <body class="home-one home-five">
 
     <?php

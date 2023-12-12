@@ -38,7 +38,7 @@
 <!-- easing JS -->
 <script src="assets/js/plugins/swip-img.js"></script>
 <!-- main js -->
-<script src="assets/js/main.js"></script>
+<script src="assets/js/main2.js"></script>
 
 <!-- magnific popup js -->
 <script src="assets/js/jquery.magnific-popup.js"></script>

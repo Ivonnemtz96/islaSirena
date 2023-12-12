@@ -545,7 +545,9 @@
               //timeFormat: 'h:mm p',
               dynamic: false,
               dropdown: true,
-              scrollbar: true
+              scrollbar: true,
+              minTime: '13:00', // Hora de inicio (1 pm)
+              maxTime: '21:00', // Hora de fin
             });
           });
         },

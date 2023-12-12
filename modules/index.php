@@ -82,7 +82,7 @@
         <div class="about-area-inner">
             <div class="row align-items-center">
                 <div
-                    class="col-xl-6 col-lg-7 pr_md--0 pr_sm--0 mt_md--50 mt_sm--50 pl_md--0 pl_sm--0 pb_md--0 pb_sm--150">
+                    class="col-12 col-xl-6 col-lg-7 pr_md--0 pr_sm--0 mt_md--50 mt_sm--50 pl_md--0 pl_sm--0 pb_md--0 pb_sm--150">
                     <div class="about-one-img">
                         <div class="left-side">
                             <div class="content">
@@ -92,7 +92,7 @@
                                     <li>Lun - Dom 01:00pm - 09:00pm</li>
                                 </ul>
                             </div>
-                            <div class="image"><img src="assets/images/about/01.jpg?=1" alt="about-image"></div>
+                            <div class="image"><img style="margin-bottom: 1rem;" src="assets/images/about/01.jpg?=1" alt="about-image"></div>
                         </div>
                         <div class="right-side">
                             <div class="image"><img src="assets/images/about/02.jpg?=1" alt="about-image"></div>
@@ -114,7 +114,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-6 col-lg-5 pr--10">
+                <div class="col-12 col-xl-6 col-lg-5 pr--10">
                     <div class="banner-one-wrapper ptb--110">
                         <div class="title-img" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
                             <img src="assets/images/about/title-shape.png" alt="about">
@@ -130,7 +130,7 @@
                         <p class="desc" data-sal="slide-up" data-sal-duration="800">
                             Marisquería estilo “Acapulco”, disfruta de un espacio auténtico, real e irreverente. Se
                             parte de este concepto que combina, frescura, calidad y mucha sazón. Ambiente de fiesta,
-                            música y diversión, acompañado de bellas sirenas…. Y sirenitos!
+                            música y diversión, acompañado de bellas sirenas... ¡Y sirenitos!
                         </p>
                         <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350"
                             data-sal-duration="800">
@@ -243,13 +243,13 @@
             <div class="col-md-6 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30  ">
                     <img style="width: 35rem;" class="img-fluid" src="assets/images/05.jpg" alt="Menu">
-                    
+
                 </div>
             </div>
             <div class="col-md-6 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
                     <img style="width: 35rem;" class="img-fluid" src="assets/images/06.jpg" alt="Menu">
-                
+
                 </div>
             </div>
         </div>
@@ -437,7 +437,7 @@
                 width="600" height="900" style="border:0;" allowfullscreen="" loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-        <form action="#" class="appoinment-form">
+        <form action="/php/contact.php" method="POST" class="appoinment-form">
             <div class="banner-one-wrapper">
                 <div class="banner-shape-area" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">
                     <span class="shape"></span>
@@ -454,19 +454,19 @@
             </div>
             <div class="single-input">
                 <label for="html">Nombre <span class="indicator">*</span></label>
-                <input type="text" placeholder="Nombre" required />
+                <input type="text" placeholder="Nombre" name="nombre" required />
             </div>
             <div class="single-input">
                 <label for="html">Correo <span class="indicator">*</span></label>
-                <input type="mail" placeholder="Correo" required />
+                <input type="mail" placeholder="Correo" name="mail" required />
             </div>
             <div class="single-input">
                 <label for="html">Teléfono <span class="indicator">*</span></label>
-                <input type="text" placeholder="Teléfono" required />
+                <input type="text" placeholder="Teléfono" name="tel" required />
             </div>
             <div class="single-input">
                 <label for="guest2">Personas <span class="indicator">*</span></label>
-                <input type="number" id="guest2" placeholder="Personas" required>
+                <input type="number" id="guest2" name="pax" placeholder="Personas" required>
             </div>
             <div class="single-input">
                 <label for="datepicker">Seleccione día <span class="indicator">*</span></label>
@@ -474,7 +474,10 @@
             </div>
             <div class="single-input">
                 <label for="timepicker">Seleccione hora<span class="indicator">*</span></label>
-                <input type="text" id="timepicker" placeholder="hora" />
+                <input type="text" id="timepicker" name="hora" placeholder="hora" />
+            </div>
+            <div class="col-12 col-md-12 mb-5">
+                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
             </div>
             <div class="single-input">
                 <button type="submit" class="rts-btn btn-primary">Reservar</button>
