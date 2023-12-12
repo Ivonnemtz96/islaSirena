@@ -237,17 +237,19 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid">
-        <div class="grid row text-center align-items-center " data-sal="slide-up" data-sal-delay="270"
+    <div class="container-fluid ">
+        <div class="grid row text-center align-items-center" data-sal="slide-up" data-sal-delay="270"
             data-sal-duration="800">
             <div class="col-md-6 col-12 grid-item cat1">
-                <div class="portfolio-wrapper2 mb-30">
-                    <img style="width: 35rem;" class="img-fluid" src="assets/images/01.jpg" alt="Menu">
+                <div class="portfolio-wrapper2 mb-30  ">
+                    <img style="width: 35rem;" class="img-fluid" src="assets/images/05.jpg" alt="Menu">
+                    
                 </div>
             </div>
             <div class="col-md-6 col-12 grid-item cat1">
                 <div class="portfolio-wrapper2 mb-30">
-                    <img style="width: 35rem;" class="img-fluid" src="assets/images/02.jpg" alt="Menu">
+                    <img style="width: 35rem;" class="img-fluid" src="assets/images/06.jpg" alt="Menu">
+                
                 </div>
             </div>
         </div>
@@ -317,10 +319,12 @@
                     <div class="title-img" data-sal="zoom-in" data-sal-delay="200" data-sal-duration="800">
                         <img src="assets/images/about/title-shape.png" alt="about">
                     </div>
-                    <h2 style="color: #111;" class="title-banner" data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">
+                    <h2 style="color: #111;" class="title-banner" data-sal="slide-up" data-sal-delay="120"
+                        data-sal-duration="800">
                         ¡Conoce nuestras promociones!
                     </h2>
-                    <h5 data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">TODOS LOS DÍAS: 3x2 en todos los destilados (Incluye bebidas PREMIUM)</h5>
+                    <h5 data-sal="slide-up" data-sal-delay="120" data-sal-duration="800">TODOS LOS DÍAS: 3x2 en todos
+                        los destilados (Incluye bebidas PREMIUM)</h5>
                 </div>
             </div>
         </div>
@@ -371,7 +375,8 @@
                             <span class="blog-badge"> Jueves</span>
                             <div class="content">
                                 <h4 style="color: #fff;" class="tag">Descorche GRATIS</h4>
-                                <h6 style="color: #fff;" class="title">(Trae tu pomo y disfruta de nuestros alimentos)</h6>
+                                <h6 style="color: #fff;" class="title">(Trae tu pomo y disfruta de nuestros alimentos)
+                                </h6>
                             </div>
                         </div>
                     </div>
@@ -410,7 +415,8 @@
                             <span class="blog-badge"> Domingo</span>
                             <div class="content">
                                 <h4 style="color: #fff;" class="tag">Clamatos GRATIS</h4>
-                                <h6 style="color: #fff;" class="title">(en consumo de Ostiones, Almejas, Callo y Pata de Mula)</h6>
+                                <h6 style="color: #fff;" class="title">(en consumo de Ostiones, Almejas, Callo y Pata de
+                                    Mula)</h6>
                             </div>
                         </div>
                     </div>

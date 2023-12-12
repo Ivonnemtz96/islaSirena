@@ -27,8 +27,6 @@
 <script src="assets/js/plugins/jquery-ui.js"></script>
 <!-- jquery ui js -->
 <script src="assets/js/plugins/jquery-timepicker.js"></script>
-<!-- magnific popup js -->
-<script src="assets/js/plugins/magnific-popup.js"></script>
 <!-- sal animation -->
 <script src="assets/js/vendor/sal.min.js"></script>
 <!-- bootstrap JS -->
@@ -41,4 +39,27 @@
 <script src="assets/js/plugins/swip-img.js"></script>
 <!-- main js -->
 <script src="assets/js/main.js"></script>
-<!-- header style two End -->
+
+<!-- magnific popup js -->
+<script src="assets/js/jquery.magnific-popup.js"></script>
+<script>
+$(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		tLoading: 'Loading image #%curr%...',
+		mainClass: 'mfp-img-mobile',
+		gallery: {
+			enabled: true,
+			navigateByImgClick: true,
+			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+			titleSrc: function(item) {
+				return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
+			}
+		}
+	});
+});
+</script>

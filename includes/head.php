@@ -14,12 +14,12 @@
     <link rel="stylesheet" href="assets/css/plugins/swiper.css">
     <link rel="stylesheet" href="assets/css/plugins/unicons.css">
     <link rel="stylesheet" href="assets/css/plugins/metismenu.css">
-    <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/plugins/timepickers.min.css">
     <link rel="stylesheet" href="assets/css/plugins/aos.css">
     <link rel="stylesheet" href="assets/css/plugins/hover-revel.css">
     <!-- bootstrap css -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <!-- main css -->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css"> 
 </head>
